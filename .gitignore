@@ -1,0 +1,36 @@
+# Node dependencies
+node_modules/
+
+# Build artifacts
+dist/
+build/
+*.tsbuildinfo
+
+# Output directory
+output/
+logs/
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.sw?
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Puppeteer Chromium cache (optional)
+.chromium/
+
+# Environment/config
+.env
+.env.local
+.env.*.local
+
+# Coverage
+coverage/
+
+# Test artifacts
+*.test.ts.snap
+jest.config.js
