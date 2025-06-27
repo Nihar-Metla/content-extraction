@@ -1,4 +1,4 @@
-# CS (Content Extraction)
+# Content Extraction
 
 A TypeScript-based CLI tool for extracting structured content from PDF files and blog URLs. Designed for reliability, clarity, and extensibility in content ingestion pipelines.
 
