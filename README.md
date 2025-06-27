@@ -5,8 +5,11 @@ A TypeScript-based CLI tool for extracting structured content from PDF files and
 ## Features
 
 📄 PDF parsing with chapter segmentation and ligature fixes
+
 🌐 Blog scraping using Axios (static) and Puppeteer (dynamic fallback)
+
 🧹 Clean Markdown conversion and HTML sanitization
+
 🗂️ Structured JSON output for ingestion or indexing
 
 ## Setup Instructions
