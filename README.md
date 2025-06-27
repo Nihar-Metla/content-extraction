@@ -52,5 +52,4 @@ npm run extract -- https://example.com/book.pdf
 npm run extract -- https://interviewing.io/blog/stop-trying-to-make-recruiters-think-or-why-your-resume-is-bad-and-how-to-fix-it
 ```
 
-ℹ️ The 
- ensures CLI arguments are passed correctly through npm scripts.
+
